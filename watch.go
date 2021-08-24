@@ -14,7 +14,7 @@ import (
 	"text/template"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/armed/mkdirp"
 	consulapi "github.com/hashicorp/consul/api"
 
